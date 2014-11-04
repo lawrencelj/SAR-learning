@@ -1,4 +1,4 @@
 SAR-learning
 ============
 
-SA
+John Hokin Univercity Coursera Courses R Programming lanageuage assignment.
